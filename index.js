@@ -57,7 +57,7 @@ bot.on('message', message=>{
             message.reply('Polarbear'+name);
         break;
 
-        case '닌별':
+        case '태강':
             message.reply('ㅗ');
         break;
 
@@ -93,7 +93,7 @@ bot.on('message', message=>{
         case '야':
             if(!args[1]) return message.reply('히히')
             switch(args[1]){
-                case '닌별':
+                case '태강':
                     message.reply('소~~난~~다 너으을ㄲㅔ');
                 break;    
             }
@@ -103,7 +103,7 @@ bot.on('message', message=>{
         case '야':
             if(!args[1]) return message.reply('히히')
             switch(args[1]){
-                case '흡도':
+                case '재욱':
                     message.reply('소난다 씨bal 넣는다');
                 break;    
             }
@@ -113,7 +113,7 @@ bot.on('message', message=>{
             case '야':
                 if(!args[1]) return message.reply('히히')
                 switch(args[1]){
-                    case '스컬':
+                    case '재욱':
                         message.reply('소~~난다 이게 취향이구나^^ 넣을께');
                     break;    
                 }
@@ -133,7 +133,7 @@ bot.on('message', message=>{
             case '야':
                 if(!args[1]) return message.reply('히히')
                 switch(args[1]){
-                    case '히디':
+                    case '정범':
                         message.reply('뭘 넣어 미띤넘아');
                     break;    
                 }
